@@ -1,0 +1,22 @@
+[
+  {
+    "intent": "membership_info",
+    "examples": ["What is the membership?", "How can I join Exercise Daily?"],
+    "responses": ["Our membership includes certification, AI training, short video creation, and media features. Learn more: https://exercisedaily.com/membership/"]
+  },
+  {
+    "intent": "apply_scholarship",
+    "examples": ["How do I apply for a scholarship?", "Is there a free scholarship program?"],
+    "responses": ["Yes! Visit https://exercisedaily.com/scholarships/ to apply for a fully-sponsored membership."]
+  },
+  {
+    "intent": "media_lab_info",
+    "examples": ["What is the Media Lab?", "Tell me about the Media Lab training."],
+    "responses": ["Our AI-powered Media Lab trains individuals in short video creation, digital marketing, and production workflows. See https://exercisedaily.com/curriculum-design/ for details."]
+  },
+  {
+    "intent": "get_featured",
+    "examples": ["Can I feature my product?", "How do I get published?"],
+    "responses": ["You can get featured in our magazine and social platforms. Apply here: https://exercisedaily.com/get-featured-in-magazine/"]
+  }
+]
